@@ -9,7 +9,7 @@ Linus Birkenes
 
 
 2. What's the URL of the github repo with your work for this HW?
-https://github.com/birkenesl/CS4550HW07
+https://github.com/birkenesl/CS4550HW07Source
 
 
 3. What's the URL that you deployed to?
